@@ -41,5 +41,5 @@ Here is the outline of the contents
 If you have found this book useful, please consider donating to any of the organizations below
 
 * [Child Foundation](https://www.childfoundation.org/page/donate)
-* [Black Lives Matters](https://blacklivesmatter.com/)
+* [Black Lives Matter](https://blacklivesmatter.com/)
 * [Food Bank of Canada](https://www.foodbankscanada.ca/)
